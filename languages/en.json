@@ -1,0 +1,12 @@
+{
+	"plugin-data":
+	{
+		"name": "Latest Scheduled",
+		"description": "Puts the date of the furthest scheduled article in the admin sidebar, so you can see where the queue ends without opening Content → Scheduled."
+	},
+
+	"ls-label": "Scheduled until",
+	"ls-none": "None",
+	"ls-title": "Open the scheduled pages list",
+	"ls-title-with-page": "%d scheduled. Furthest: %s - %s"
+}

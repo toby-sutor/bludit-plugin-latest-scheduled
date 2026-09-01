@@ -1,0 +1,14 @@
+/* Date on its own line so a narrow sidebar does not squash it into the label.
+   text-transform:none: the mobile navbar uppercases every nav-link. */
+.js-latest-scheduled .ls-date {
+	display: block;
+	margin-left: 1.35em;
+	font-weight: 600;
+	text-transform: none;
+	letter-spacing: 0;
+}
+
+.js-latest-scheduled.ls-empty .ls-date {
+	font-weight: 400;
+	opacity: 0.7;
+}

@@ -1,0 +1,12 @@
+{
+	"plugin-data":
+	{
+		"name": "Letzter geplanter Beitrag",
+		"description": "Zeigt in der Admin-Seitenleiste das Datum des am weitesten in der Zukunft geplanten Artikels, ohne Content → Geplant öffnen zu müssen."
+	},
+
+	"ls-label": "Geplant bis",
+	"ls-none": "Keine",
+	"ls-title": "Liste der geplanten Seiten öffnen",
+	"ls-title-with-page": "%d geplant. Letztes Datum: %s - %s"
+}

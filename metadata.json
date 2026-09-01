@@ -1,0 +1,10 @@
+{
+  "author": "TrenchOpsCom",
+  "email": "",
+  "website": "https://trenchops.com",
+  "version": "0.1.0",
+  "releaseDate": "2026-08-30",
+  "license": "MIT",
+  "compatible": "3.21",
+  "notes": "Shows the date of the furthest scheduled article in the admin sidebar."
+}
