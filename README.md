@@ -4,6 +4,10 @@ Puts the date of the **furthest scheduled article** in the Bludit **3.21** admin
 sidebar, so you can see where the publishing queue ends without switching to
 Content → Scheduled.
 
+## Screenshot
+
+<img width="276" height="531" alt="screenshot" src="https://github.com/user-attachments/assets/cccef850-679e-48e7-b624-a1054b15c801" />
+
 ---
 
 ## Installing
